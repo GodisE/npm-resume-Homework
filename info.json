@@ -1,0 +1,19 @@
+{
+    "name" : "Erika Helm",
+    "email" : "Erikadphelm16@gmail.com",
+    "github" : "GodisE",
+    "githubEneterprise" : "empresse",
+    "homwetown" : "chicago",
+    "TechnologiesImLearning": [
+        "javascript",
+        "node",
+        "html",
+        "css"
+    ],
+    "otherSkills" : [
+        "cooking",
+        "herbalism",
+        "dancing"
+    ]
+    
+}

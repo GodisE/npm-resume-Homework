@@ -1,0 +1,15 @@
+{
+  "bin": {
+  "your-command-here": "./index.js"
+},
+  "name": "erika-helm-resume",
+  "version": "1.0.0",
+  "description": "npm resume hw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erika Helm",
+  "license": "ISC"
+  
+}
